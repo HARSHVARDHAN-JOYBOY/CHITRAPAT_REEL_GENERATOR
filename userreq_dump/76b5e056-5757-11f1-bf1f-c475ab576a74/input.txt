@@ -1,0 +1,6 @@
+file 'user_uploads/76b5e056-5757-11f1-bf1f-c475ab576a74/rk.jpg'
+duration 1
+file 'user_uploads/76b5e056-5757-11f1-bf1f-c475ab576a74/r2.jpg'
+duration 1
+file 'user_uploads/76b5e056-5757-11f1-bf1f-c475ab576a74/r3.jpg'
+duration 1

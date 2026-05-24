@@ -1,0 +1,6 @@
+file '20240628_093659.heic'
+duration 1
+file '20240625_084412.heic'
+duration 1
+file '20241215_175039.heic'
+duration 1

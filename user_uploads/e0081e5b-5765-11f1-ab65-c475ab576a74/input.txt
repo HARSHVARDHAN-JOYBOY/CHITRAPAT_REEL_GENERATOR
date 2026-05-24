@@ -1,0 +1,14 @@
+file 'img2.jpg'
+duration 1
+file 'img3.jpg'
+duration 1
+file 'img4.jpg'
+duration 1
+file 'img5.jpg'
+duration 1
+file 'img6.jpg'
+duration 1
+file 'img8.jpg'
+duration 1
+file 'img9.jpg'
+duration 1

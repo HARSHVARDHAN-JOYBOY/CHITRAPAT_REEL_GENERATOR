@@ -1,0 +1,7 @@
+ELEVENLABS_API_KEY="sk_46b198914ebbb4feff33720797ff86ef353a2437c3db962e"
+
+
+
+#VidSnapReelgenerator="sk_e4da23f15042903742b3e269e2f2d6e0ee1621ebfddb4c99"
+# VidSnapReelgenerator="sk_059f2c56ba305102161a63dbfc2e7b92154ddb55e77e8c39"
+# # VidSnapReelgenerator="sk_46b198914ebbb4feff33720797ff86ef353a2437c3db962e"

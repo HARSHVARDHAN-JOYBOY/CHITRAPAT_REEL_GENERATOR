@@ -1,0 +1,6 @@
+file '20241223_000848.jpg'
+duration 1
+file '20241223_000958.jpg'
+duration 1
+file '20241223_000900.jpg'
+duration 1
